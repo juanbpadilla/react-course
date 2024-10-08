@@ -1,0 +1,12 @@
+[submodule "01-intro-react"]
+	path = 01-intro-react
+	url = https://github.com/juanbpadilla/01-intro-react.git
+[submodule "02-intro-javascript"]
+	path = 02-intro-javascript
+	url = https://github.com/juanbpadilla/02-intro-javascript.git
+[submodule "03-counter-app-vite"]
+	path = 03-counter-app-vite
+	url = https://github.com/juanbpadilla/03-counter-app-vite.git
+[submodule "04-gif-expert-app"]
+	path = 04-gif-expert-app
+	url = https://github.com/juanbpadilla/04-gif-expert-app.git
